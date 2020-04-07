@@ -1,4 +1,4 @@
-var a, b, b;
+var int = a, b, b;
 
 
 for (b=2; b<=29; b++){ 
